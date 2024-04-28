@@ -1,6 +1,10 @@
 # Stack-Overflow-User-Stats-Display
 
-Stack Overflow user badge information displayed like stats,reputation,answers created using html,css &amp; js
+Stack Overflow user badge information displayed as stats, reputation, and answers created using the badge provided by 
+
+https://github.com/johannchopin/stackoverflow-readme-profile?tab=readme-ov-file
+
+to display HTML, CSS, and JS.
 
 Search Stack Overflow live stats here:
 
