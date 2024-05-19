@@ -4,6 +4,8 @@ Stack Overflow user badge information displayed as stats, reputation, and answer
 
 https://github.com/johannchopin/stackoverflow-readme-profile?tab=readme-ov-file
 
+# Some Names Will Not Fetch Use Id Or Url
+
 # Search Stack Overflow live stats here:
 
 https://stackoverflowuserstatsdisplay.netlify.app
