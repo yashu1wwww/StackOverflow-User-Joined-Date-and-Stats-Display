@@ -4,9 +4,7 @@ Stack Overflow user badge information displayed as stats, reputation, and answer
 
 https://github.com/johannchopin/stackoverflow-readme-profile?tab=readme-ov-file
 
-to display HTML, CSS, and JS.
-
-Search Stack Overflow live stats here:
+# Search Stack Overflow live stats here:
 
 https://stackoverflowuserstatsdisplay.netlify.app
 
