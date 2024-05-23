@@ -1,6 +1,6 @@
 # Stack-Overflow-User-Stats-Display
 
-Stack Overflow user badge information displayed as stats, reputation, and answers created using the badge provided by 
+Display Stack Overflow user badges along with the date they joined. Simply enter the name, ID, or URL, created using the badge provided by 
 
 https://github.com/johannchopin/stackoverflow-readme-profile?tab=readme-ov-file
 
