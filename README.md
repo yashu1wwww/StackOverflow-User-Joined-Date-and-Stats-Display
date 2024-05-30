@@ -1,4 +1,4 @@
-# Stack-Overflow-User-Stats-Display
+# StackOverflow-User-Joined-Date-and-Stats-Display
 
 Display Stack Overflow user badges along with the date they joined. Simply enter the name, ID, or URL, created using the badge provided by 
 
