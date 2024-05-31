@@ -1,10 +1,6 @@
 # StackOverflow-User-Joined-Date-and-Stats-Display
 
-Display Stack Overflow user badges along with the date they joined. Simply enter the name, ID, or URL, created using the badge provided by 
-
-https://github.com/johannchopin/stackoverflow-readme-profile?tab=readme-ov-file
-
-# Some Names Will Not Fetch Use Id Or Url
+Display Stack Overflow user badges along with the date they joined. Simply enter the name, ID, or URL
 
 # Search Stack Overflow live stats here:
 
